@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Coco language</title>
+  <title>马尼拉买房</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="Coco language can help you with your business and individual learning">
+  <meta content="" name="菲律宾马尼拉买房网">
   <meta content="" name="description">
 
   <!-- Favicons -->
@@ -40,7 +40,7 @@
   <!--/ Form Search Star /-->
   <div class="box-collapse">
     <div class="title-box-d">
-      <h3 class="title-d">Find Your Teacher</h3>
+      <h3 class="title-d">搜索房产资源</h3>
     </div>
     <span class="close-box-collapse right-boxed ion-ios-close"></span>
     <div class="box-collapse-wrap form">
@@ -48,7 +48,7 @@
         <div class="row">
           <div class="col-md-12 mb-2">
             <div class="form-group">
-              <label for="Type">Keyword</label>
+              <label for="Type">关键词</label>
               <input type="text" class="form-control form-control-lg form-control-a" placeholder="Keyword">
             </div>
           </div>
@@ -65,17 +65,13 @@
           </div>
           <div class="col-md-6 mb-2">
             <div class="form-group">
-              <label for="city">Languages</label>
+              <label for="city">城市</label>
               <select class="form-control form-control-lg form-control-a" id="city">
-                <option>All Languages</option>
-                <option>Mandarin</option>
-                <option>English</option>
-                <option>Spanish</option>
-                <option>German</option>
-				<option>Spanish</option>
-                <option>German</option>
-				<option>Spanish</option>
-                <option>German</option>
+                <option>所有城市</option>
+                <option>马尼拉</option>
+                <option>曼达鲁勇</option>
+                <option>帕拉纳克</option>
+                <option>奎松市区</option>
               </select>
             </div>
           </div>
@@ -126,7 +122,7 @@
             </div>
           </div>
           <div class="col-md-12">
-            <button type="submit" class="btn btn-b">Search Teachers</button>
+            <button type="submit" class="btn btn-b">搜索房产</button>
           </div>
         </div>
       </form>
@@ -143,7 +139,7 @@
         <span></span>
         <span></span>
       </button>
-      <a class="navbar-brand text-brand" href="index.html">COCO<span class="color-b">LANGUAGES</span></a>
+      <a class="navbar-brand text-brand" href="index.html">马尼拉<span class="color-b">买房</span></a>
       <button type="button" class="btn btn-link nav-search navbar-toggle-box-collapse d-md-none" data-toggle="collapse"
         data-target="#navbarTogglerDemo01" aria-expanded="false">
         <span class="fa fa-search" aria-hidden="true"></span>
@@ -154,10 +150,10 @@
             <a class="nav-link active" href="index.html">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about.html">About Us</a>
+            <a class="nav-link" href="about.html">关于我</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="property-grid.html">Language</a>
+            <a class="nav-link" href="property-grid.html">Property</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="blog-grid.html">博客</a>
@@ -204,7 +200,7 @@
                       <span class="color-b">AZURE </span> 帕拉纳克市
                       <br> 蔚蓝度假公寓</h1>
                     <p class="intro-subtitle intro-price">
-                      <a href="#"><span class="price-a">New teachers</span></a>
+                      <a href="#"><span class="price-a">新房 | 免费看房</span></a>
                     </p>
                   </div>
                 </div>
@@ -270,7 +266,7 @@
         <div class="col-md-12">
           <div class="title-wrap d-flex justify-content-between">
             <div class="title-box">
-              <h2 class="title-a">Our services</h2>
+              <h2 class="title-a">我们的服务</h2>
             </div>
           </div>
         </div>
@@ -862,7 +858,7 @@
                   </h2>
                 </div>
                 <div class="card-date">
-                  <span class="date-b">18 Jan. 2022</span>
+                  <span class="date-b">18 Sep. 2017</span>
                 </div>
               </div>
             </div>
@@ -900,7 +896,9 @@
                 </div>
                 <div class="testimonials-content">
                   <p class="testimonial-text">
-                    Coco language can help you with your business and individual learning
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, cupiditate ea nam praesentium
+                    debitis hic ber quibusdam
+                    voluptatibus officia expedita corpori.
                   </p>
                 </div>
                 <div class="testimonial-author-box">
@@ -925,7 +923,9 @@
                 </div>
                 <div class="testimonials-content">
                   <p class="testimonial-text">
-                    Coco language can help you with your business and individual learning
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, cupiditate ea nam praesentium
+                    debitis hic ber quibusdam
+                    voluptatibus officia expedita corpori.
                   </p>
                 </div>
                 <div class="testimonial-author-box">
@@ -948,11 +948,11 @@
         <div class="col-sm-12 col-md-4">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">Coco language </h3>
+              <h3 class="w-title-a text-brand">世纪地产顾问</h3>
             </div>
             <div class="w-body-a">
               <p class="w-text-a color-text-a">
-                Coco language can help you with your business and individual learning
+                Robin Fang是菲律宾世纪地产集团全职顾问。
               </p>
             </div>
             <div class="w-footer-a">
@@ -968,7 +968,7 @@
         <div class="col-sm-12 col-md-4 section-md-t3">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">COCO LANGUAGES</h3>
+              <h3 class="w-title-a text-brand">The Company</h3>
             </div>
             <div class="w-body-a">
               <div class="w-body-a">
@@ -1036,16 +1036,16 @@
                 <a href="#">Home</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">About us</a>
+                <a href="#">关于我</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">teachers</a>
+                <a href="#">房产</a>
               </li>
               <li class="list-inline-item">
                 <a href="#">Blog</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">Contact</a>
+                <a href="#">联系我</a>
               </li>
             </ul>
           </nav>
@@ -1081,7 +1081,7 @@
           <div class="copyright-footer">
             <p class="copyright color-text-a">
               &copy; Copyright
-              <span class="color-a">COCO LANGUAGES</span> COPYRIGHT.
+              <span class="color-a">菲律宾世纪地产顾问</span> 版权所有.
             </p>
           </div>
           <div class="credits">
