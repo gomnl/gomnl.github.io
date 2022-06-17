@@ -40,7 +40,7 @@
   <!--/ Form Search Star /-->
   <div class="box-collapse">
     <div class="title-box-d">
-      <h3 class="title-d">Find Your Teacher</h3>
+      <h3 class="title-d">Find Your Teachers</h3>
     </div>
     <span class="close-box-collapse right-boxed ion-ios-close"></span>
     <div class="box-collapse-wrap form">
@@ -59,7 +59,7 @@
                 <option>所有类型</option>
                 <option>出租</option>
                 <option>出售</option>
-                <option>免费招待会</option>
+                <option>招待会</option>
               </select>
             </div>
           </div>
@@ -67,7 +67,7 @@
             <div class="form-group">
               <label for="city">Languages</label>
               <select class="form-control form-control-lg form-control-a" id="city">
-                <option>All Languages</option>
+                <option>All languages</option>
                 <option>Mandarin</option>
                 <option>English</option>
                 <option>Spanish</option>
@@ -115,13 +115,13 @@
           </div>
           <div class="col-md-6 mb-2">
             <div class="form-group">
-              <label for="price">最低价</label>
+              <label for="price">RATES</label>
               <select class="form-control form-control-lg form-control-a" id="price">
                 <option>Unlimite</option>
-                <option>$50,000</option>
-                <option>$100,000</option>
-                <option>$150,000</option>
-                <option>$200,000</option>
+                <option>$5</option>
+                <option>$10</option>
+                <option>$15</option>
+                <option>$20</option>
               </select>
             </div>
           </div>
@@ -143,7 +143,7 @@
         <span></span>
         <span></span>
       </button>
-      <a class="navbar-brand text-brand" href="index.html">COCO<span class="color-b">LANGUAGES</span></a>
+      <a class="navbar-brand text-brand" href="index.html">COCO<span class="color-b">LANGUAGE</span></a>
       <button type="button" class="btn btn-link nav-search navbar-toggle-box-collapse d-md-none" data-toggle="collapse"
         data-target="#navbarTogglerDemo01" aria-expanded="false">
         <span class="fa fa-search" aria-hidden="true"></span>
@@ -168,10 +168,10 @@
               Pages
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="property-single.html">Property Single</a>
-              <a class="dropdown-item" href="blog-single.html">Blog Single</a>
-              <a class="dropdown-item" href="agents-grid.html">Agents Grid</a>
-              <a class="dropdown-item" href="agent-single.html">Agent Single</a>
+              <a class="dropdown-item" href="property-single.html">Class</a>
+              <a class="dropdown-item" href="blog-single.html">Payment</a>
+              <a class="dropdown-item" href="agents-grid.html">ALL Teachers</a>
+              <a class="dropdown-item" href="agent-single.html">TOP eachers</a>
             </div>
           </li>
           <li class="nav-item">
@@ -198,13 +198,13 @@
               <div class="row">
                 <div class="col-lg-8">
                   <div class="intro-body">
-                    <p class="intro-title-top">Parañaque,Manila
-                      <br> 78345</p>
+                    <p class="intro-title-top">Teacher From China
+                      <br> Minimum 2 hours</p>
                     <h1 class="intro-title mb-4">
-                      <span class="color-b">AZURE </span> 帕拉纳克市
-                      <br> 蔚蓝度假公寓</h1>
+                      <span class="color-b">MANDARIN </span> ONE ON ONE CLASS
+                      <br>12 USD for 2 HOURs</h1>
                     <p class="intro-subtitle intro-price">
-                      <a href="#"><span class="price-a">New teachers</span></a>
+                      <a href="#"><span class="price-a">ENROLL NOW</span></a>
                     </p>
                   </div>
                 </div>
@@ -227,7 +227,7 @@
                       <span class="color-b">Commonwealth </span> 奎松市
                       <br>英联邦城</h1>
                     <p class="intro-subtitle intro-price">
-                      <a href="#"><span class="price-a">新房 | 免费看房</span></a>
+                      <a href="#"><span class="price-a">新房 | 看房</span></a>
                     </p>
                   </div>
                 </div>
@@ -288,7 +288,7 @@
             </div>
             <div class="card-body-c">
               <p class="content-c">
-                马尼拉是你在东南亚居家，工作，生活的教育首选城市。有着优越的国际氛围，良好的英文环境。
+                Coco language can help you with your business and individual learning
               </p>
             </div>
             <div class="card-footer-c">
@@ -332,7 +332,7 @@
             </div>
             <div class="card-body-c">
               <p class="content-c">
-                我们公司旗下 希格洛物业管理公司(SIGLO SUITES) 可以为阁下提供出租房子给世界各地游客。您只需在家坐等租金。
+                 Coco language can help you with your business and individual learning
               </p>
             </div>
             <div class="card-footer-c">
@@ -354,7 +354,7 @@
         <div class="col-md-12">
           <div class="title-wrap d-flex justify-content-between">
             <div class="title-box">
-              <h2 class="title-a">最新房源</h2>
+              <h2 class="title-a">Hot Teachers</h2>
             </div>
             <div class="title-link">
               <a href="property-grid.html">All Property
@@ -380,7 +380,7 @@
                 </div>
                 <div class="card-body-a">
                   <div class="price-box d-flex">
-                    <span class="price-a">rent | $ 12.000</span>
+                    <span class="price-a">rate | $ 12.00</span>
                   </div>
                   <a href="#" class="link-a">Click here to view
                     <span class="ion-ios-arrow-forward"></span>
@@ -427,7 +427,7 @@
                 </div>
                 <div class="card-body-a">
                   <div class="price-box d-flex">
-                    <span class="price-a">rent | $ 12.000</span>
+                    <span class="price-a">rate | $ 12.00</span>
                   </div>
                   <a href="property-single.html" class="link-a">点击放大
                     <span class="ion-ios-arrow-forward"></span>
@@ -474,7 +474,7 @@
                 </div>
                 <div class="card-body-a">
                   <div class="price-box d-flex">
-                    <span class="price-a">rent | $ 12.000</span>
+                    <span class="price-a">rate | $ 12.00</span>
                   </div>
                   <a href="property-single.html" class="link-a">Click here to view
                     <span class="ion-ios-arrow-forward"></span>
@@ -521,7 +521,7 @@
                 </div>
                 <div class="card-body-a">
                   <div class="price-box d-flex">
-                    <span class="price-a">rent | $ 12.000</span>
+                    <span class="price-a">rate | $ 12.00</span>
                   </div>
                   <a href="property-single.html" class="link-a">Click here to view
                     <span class="ion-ios-arrow-forward"></span>
@@ -565,10 +565,10 @@
         <div class="col-md-12">
           <div class="title-wrap d-flex justify-content-between">
             <div class="title-box">
-              <h2 class="title-a">Best Agents</h2>
+              <h2 class="title-a">Best Teachers</h2>
             </div>
             <div class="title-link">
-              <a href="agents-grid.html">All Agents
+              <a href="agents-grid.html">All Teachers
                 <span class="ion-ios-arrow-forward"></span>
               </a>
             </div>
@@ -596,9 +596,9 @@
                 </p>
                 <div class="info-agents color-a">
                   <p>
-                    <strong>Phone: </strong> 0915 052 3713</p>
+                    <strong>Phone: </strong> +63 956 088 4681</p>
                   <p>
-                    <strong>Email: </strong> ayalaxp@gmail.com</p>
+                    <strong>Email: </strong> cocolanguagetraining@gmail.com</p>
                 </div>
               </div>
               <div class="card-footer-d">
@@ -655,9 +655,9 @@
                 </p>
                 <div class="info-agents color-a">
                   <p>
-                    <strong>Phone: </strong> +54 356 945234</p>
+                    <strong>Phone: </strong> +63 956 088 4681</p>
                   <p>
-                    <strong>Email: </strong> agents@example.com</p>
+                    <strong>Email: </strong> cocolanguagetraining@gmail.com</p>
                 </div>
               </div>
               <div class="card-footer-d">
@@ -714,9 +714,9 @@
                 </p>
                 <div class="info-agents color-a">
                   <p>
-                    <strong>Phone: </strong> +54 356 945234</p>
+                    <strong>Phone: </strong> +63 956 088 4681</p>
                   <p>
-                    <strong>Email: </strong> agents@example.com</p>
+                    <strong>Email: </strong> cocolanguagetraining@gmail.com</p>
                 </div>
               </div>
               <div class="card-footer-d">
@@ -960,7 +960,7 @@
                 <li class="color-a">
                   <span class="color-text-a">GLOBE.</span>091 5052 3713 </li>
                 <li class="color-a">
-                  <span class="color-text-a">Email .</span> ayalaxp@gmail.com </li>
+                  <span class="color-text-a">Email .</span> cocolanguagetraining@gmail.com </li>
               </ul>
             </div>
           </div>
@@ -1081,7 +1081,7 @@
           <div class="copyright-footer">
             <p class="copyright color-text-a">
               &copy; Copyright
-              <span class="color-a">COCO LANGUAGES</span> COPYRIGHT.
+              <span class="color-a">COCO language</span> COPYRIGHT.
             </p>
           </div>
           <div class="credits">
