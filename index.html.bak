@@ -89,9 +89,9 @@
           </div>
           <div class="col-md-6 mb-2">
             <div class="form-group">
-              <label for="price">RATES</label>
+              <label for="price">Hourly Rates</label>
               <select class="form-control form-control-lg form-control-a" id="price">
-                <option>Unlimite</option>
+                <option>$50 above</option>
                 <option>$5</option>
                 <option>$15</option>
                 <option>$25</option>
@@ -134,10 +134,10 @@
             <a class="nav-link" href="group-courses.html">Group Courses</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="all-classes.html">Language</a>
+            <a class="nav-link" href="all-classes.html">All Courses</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="blog-grid.html">All Course</a>
+            <a class="nav-link" href="blog-grid.html">Blogg</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
@@ -145,10 +145,10 @@
               Other
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="group-courses.html">Class</a>
+              <a class="dropdown-item" href="group-courses.html">Group Courses</a>
               <a class="dropdown-item" href="blog-single.html">Payment</a>
               <a class="dropdown-item" href="all-tutors.html">ALL Teachers</a>
-              <a class="dropdown-item" href="tutor.html">TOP eachers</a>
+              <a class="dropdown-item" href="tutor.html">Online Tutorial</a>
             </div>
           </li>
           <li class="nav-item">

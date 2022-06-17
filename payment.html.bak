@@ -143,7 +143,7 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="group-courses.html">Property Single</a>
-              <a class="dropdown-item active" href="blog-single.html">Blog Single</a>
+              <a class="dropdown-item active" href="payment.html">Blog Single</a>
               <a class="dropdown-item" href="all-tutors.html">Teachers Grid</a>
               <a class="dropdown-item" href="tutor.html">Teachers Single</a>
             </div>

@@ -37,10 +37,10 @@
 <body>
 
   <div class="click-closed"></div>
-  <!--/ Form Search Star /-->
+   <!--/ Form Search Star /-->
   <div class="box-collapse">
     <div class="title-box-d">
-      <h3 class="title-d">Search Teachers</h3>
+      <h3 class="title-d">Find Your Teachers</h3>
     </div>
     <span class="close-box-collapse right-boxed ion-ios-close"></span>
     <div class="box-collapse-wrap form">
@@ -56,68 +56,46 @@
             <div class="form-group">
               <label for="Type">Type</label>
               <select class="form-control form-control-lg form-control-a" id="Type">
-                <option>All Type</option>
-                <option>For Rent</option>
-                <option>For Sale</option>
-                <option>Open House</option>
+                <option>Mode</option>
+                <option>Group</option>
+                <option>Private</option>
               </select>
             </div>
           </div>
           <div class="col-md-6 mb-2">
             <div class="form-group">
-              <label for="city">City</label>
+              <label for="city">Languages</label>
               <select class="form-control form-control-lg form-control-a" id="city">
-                <option>All City</option>
-                <option>Alabama</option>
-                <option>Arizona</option>
-                <option>California</option>
-                <option>Colorado</option>
+                <option>All languages</option>
+                <option>English</option>
+				<option>Mandarin</option>
+                <option>Spanish</option>
+                <option>Korean</option>
+				<option>Japanese</option>
+				<option>French</option>
               </select>
             </div>
           </div>
+          
           <div class="col-md-6 mb-2">
             <div class="form-group">
-              <label for="bedrooms">Bedrooms</label>
-              <select class="form-control form-control-lg form-control-a" id="bedrooms">
-                <option>Any</option>
-                <option>01</option>
-                <option>02</option>
-                <option>03</option>
-              </select>
-            </div>
-          </div>
-          <div class="col-md-6 mb-2">
-            <div class="form-group">
-              <label for="garages">Garages</label>
-              <select class="form-control form-control-lg form-control-a" id="garages">
-                <option>Any</option>
-                <option>01</option>
-                <option>02</option>
-                <option>03</option>
-                <option>04</option>
-              </select>
-            </div>
-          </div>
-          <div class="col-md-6 mb-2">
-            <div class="form-group">
-              <label for="bathrooms">Bathrooms</label>
+              <label for="bathrooms">Native Speakers</label>
               <select class="form-control form-control-lg form-control-a" id="bathrooms">
                 <option>Any</option>
-                <option>01</option>
-                <option>02</option>
-                <option>03</option>
+                <option>Yes</option>
+                <option>No</option>
               </select>
             </div>
           </div>
           <div class="col-md-6 mb-2">
             <div class="form-group">
-              <label for="price">Min Price</label>
+              <label for="price">RATES</label>
               <select class="form-control form-control-lg form-control-a" id="price">
                 <option>Unlimite</option>
-                <option>$50,000</option>
-                <option>$100,000</option>
-                <option>$150,000</option>
-                <option>$200,000</option>
+                <option>$5</option>
+                <option>$10</option>
+                <option>$15</option>
+                <option>$20</option>
               </select>
             </div>
           </div>
@@ -166,8 +144,8 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="group-courses.html">Property Single</a>
               <a class="dropdown-item" href="blog-single.html">Blog Single</a>
-              <a class="dropdown-item" href="agents-grid.html">Agents Grid</a>
-              <a class="dropdown-item active" href="agent-single.html">Agent Single</a>
+              <a class="dropdown-item" href="all-tutors.html">Agents Grid</a>
+              <a class="dropdown-item active" href="tutor.html">Agent Single</a>
             </div>
           </li>
           <li class="nav-item">
