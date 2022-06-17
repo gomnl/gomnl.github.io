@@ -128,13 +128,13 @@
             <a class="nav-link active" href="index.html">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about.html">Private</a>
+            <a class="nav-link" href="private-class.html">Private</a>
           </li>
 		  <li class="nav-item">
-            <a class="nav-link" href="property-single.html">Group Courses</a>
+            <a class="nav-link" href="group-courses.html">Group Courses</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="property-grid.html">Language</a>
+            <a class="nav-link" href="all-classes.html">Language</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="blog-grid.html">All Course</a>
@@ -145,7 +145,7 @@
               Other
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="property-single.html">Class</a>
+              <a class="dropdown-item" href="group-courses.html">Class</a>
               <a class="dropdown-item" href="blog-single.html">Payment</a>
               <a class="dropdown-item" href="agents-grid.html">ALL Teachers</a>
               <a class="dropdown-item" href="agent-single.html">TOP eachers</a>
@@ -334,7 +334,7 @@
               <h2 class="title-a">Popular Enroll</h2>
             </div>
             <div class="title-link">
-              <a href="property-grid.html">All Courses
+              <a href="all-classes.html">All Courses
                 <span class="ion-ios-arrow-forward"></span>
               </a>
             </div>
@@ -351,7 +351,7 @@
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">Monthly
+                    <a href="group-courses.html">Monthly
                       <br /> Mandarin Class</a>
                   </h2>
                 </div>
@@ -398,7 +398,7 @@
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">Monthly
+                    <a href="group-courses.html">Monthly
                       <br /> English Class</a>
                   </h2>
                 </div>
@@ -406,7 +406,7 @@
                   <div class="price-box d-flex">
                     <span class="price-a">rate | $ 12.00</span>
                   </div>
-                  <a href="property-single.html" class="link-a">点击放大
+                  <a href="group-courses.html" class="link-a">点击放大
                     <span class="ion-ios-arrow-forward"></span>
                   </a>
                 </div>
@@ -445,7 +445,7 @@
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">Monthly
+                    <a href="group-courses.html">Monthly
                       <br /> Japanese Class</a>
                   </h2>
                 </div>
@@ -453,7 +453,7 @@
                   <div class="price-box d-flex">
                     <span class="price-a">rate | $ 12.00</span>
                   </div>
-                  <a href="property-single.html" class="link-a">Click here to view
+                  <a href="group-courses.html" class="link-a">Click here to view
                     <span class="ion-ios-arrow-forward"></span>
                   </a>
                 </div>
@@ -492,7 +492,7 @@
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">204 Montal
+                    <a href="group-courses.html">204 Montal
                       <br /> South Bela Two</a>
                   </h2>
                 </div>
@@ -500,7 +500,7 @@
                   <div class="price-box d-flex">
                     <span class="price-a">rate | $ 12.00</span>
                   </div>
-                  <a href="property-single.html" class="link-a">Click here to view
+                  <a href="group-courses.html" class="link-a">Click here to view
                     <span class="ion-ios-arrow-forward"></span>
                   </a>
                 </div>
@@ -1029,7 +1029,7 @@
           <div class="socials-a">
             <ul class="list-inline">
               <li class="list-inline-item">
-                <a href="#">
+                <a href="https://www.facebook.com/Coco-Language-Training-100306922651723">
                   <i class="fa fa-facebook" aria-hidden="true"></i>
                 </a>
               </li>
@@ -1058,7 +1058,7 @@
           <div class="copyright-footer">
             <p class="copyright color-text-a">
               &copy; Copyright
-              <span class="color-a">COCO language</span> COPYRIGHT.
+              <span class="color-a">COCO language</span> Copyright.
             </p>
           </div>
           <div class="credits">

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>EstateAgency Bootstrap Template</title>
+  <title>Coco language </title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -27,7 +27,7 @@
   <link href="css/style.css" rel="stylesheet">
 
   <!-- =======================================================
-    Theme Name: EstateAgency
+    Theme Name: Coco language
     Theme URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
     Author: BootstrapMade.com
     License: https://bootstrapmade.com/license/
@@ -40,7 +40,7 @@
   <!--/ Form Search Star /-->
   <div class="box-collapse">
     <div class="title-box-d">
-      <h3 class="title-d">Search Property</h3>
+      <h3 class="title-d">Search Teachers</h3>
     </div>
     <span class="close-box-collapse right-boxed ion-ios-close"></span>
     <div class="box-collapse-wrap form">
@@ -122,7 +122,7 @@
             </div>
           </div>
           <div class="col-md-12">
-            <button type="submit" class="btn btn-b">Search Property</button>
+            <button type="submit" class="btn btn-b">Search Teachers</button>
           </div>
         </div>
       </form>
@@ -139,7 +139,7 @@
         <span></span>
         <span></span>
       </button>
-      <a class="navbar-brand text-brand" href="index.html">Estate<span class="color-b">Agency</span></a>
+      <a class="navbar-brand text-brand" href="index.html">CoCo<span class="color-b">Language</span></a>
       <button type="button" class="btn btn-link nav-search navbar-toggle-box-collapse d-md-none" data-toggle="collapse"
         data-target="#navbarTogglerDemo01" aria-expanded="false">
         <span class="fa fa-search" aria-hidden="true"></span>
@@ -150,10 +150,10 @@
             <a class="nav-link" href="index.html">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
+            <a class="nav-link" href="private-class.html">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="property-grid.html">Property</a>
+            <a class="nav-link" href="all-classes.html">Property</a>
           </li>
           <li class="nav-item">
             <a class="nav-link active" href="blog-grid.html">Blog</a>
@@ -164,7 +164,7 @@
               Pages
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="property-single.html">Property Single</a>
+              <a class="dropdown-item" href="group-courses.html">Group Courses</a>
               <a class="dropdown-item" href="blog-single.html">Blog Single</a>
               <a class="dropdown-item" href="agents-grid.html">Agents Grid</a>
               <a class="dropdown-item" href="agent-single.html">Agent Single</a>
@@ -231,7 +231,7 @@
                   </h2>
                 </div>
                 <div class="card-date">
-                  <span class="date-b">18 Sep. 2017</span>
+                  <span class="date-b">18 Sep. 2021</span>
                 </div>
               </div>
             </div>
@@ -254,7 +254,7 @@
                   </h2>
                 </div>
                 <div class="card-date">
-                  <span class="date-b">18 Sep. 2017</span>
+                  <span class="date-b">18 Sep. 2021</span>
                 </div>
               </div>
             </div>
@@ -277,7 +277,7 @@
                   </h2>
                 </div>
                 <div class="card-date">
-                  <span class="date-b">18 Sep. 2017</span>
+                  <span class="date-b">18 Sep. 2021</span>
                 </div>
               </div>
             </div>
@@ -300,7 +300,7 @@
                   </h2>
                 </div>
                 <div class="card-date">
-                  <span class="date-b">18 Sep. 2017</span>
+                  <span class="date-b">18 Sep. 2021</span>
                 </div>
               </div>
             </div>
@@ -323,7 +323,7 @@
                   </h2>
                 </div>
                 <div class="card-date">
-                  <span class="date-b">18 Sep. 2017</span>
+                  <span class="date-b">18 Sep. 2021</span>
                 </div>
               </div>
             </div>
@@ -346,7 +346,7 @@
                   </h2>
                 </div>
                 <div class="card-date">
-                  <span class="date-b">18 Sep. 2017</span>
+                  <span class="date-b">18 Sep. 2021</span>
                 </div>
               </div>
             </div>
@@ -391,7 +391,7 @@
         <div class="col-sm-12 col-md-4">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">EstateAgency</h3>
+              <h3 class="w-title-a text-brand">Coco language</h3>
             </div>
             <div class="w-body-a">
               <p class="w-text-a color-text-a">
@@ -402,9 +402,9 @@
             <div class="w-footer-a">
               <ul class="list-unstyled">
                 <li class="color-a">
-                  <span class="color-text-a">Phone .</span> contact@example.com</li>
+                  <span class="color-text-a">Phone .</span> +63 0956 088 4681</li>
                 <li class="color-a">
-                  <span class="color-text-a">Email .</span> +54 356 945234</li>
+                  <span class="color-text-a">Email .</span> cocolanguagetraining@gmail.com</li>
               </ul>
             </div>
           </div>
@@ -412,7 +412,7 @@
         <div class="col-sm-12 col-md-4 section-md-t3">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">The Company</h3>
+              <h3 class="w-title-a text-brand">CoCo Online School</h3>
             </div>
             <div class="w-body-a">
               <div class="w-body-a">
@@ -527,7 +527,7 @@
           <div class="copyright-footer">
             <p class="copyright color-text-a">
               &copy; Copyright
-              <span class="color-a">EstateAgency</span> All Rights Reserved.
+              <span class="color-a">Coco language</span> All Rights Reserved.
             </p>
           </div>
           <div class="credits">
@@ -535,7 +535,7 @@
               All the links in the footer should remain intact.
               You can delete the links only if you purchased the pro version.
               Licensing information: https://bootstrapmade.com/license/
-              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=EstateAgency
+              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Coco language
             -->
             Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
           </div>
