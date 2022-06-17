@@ -27,7 +27,7 @@
   <link href="css/style.css" rel="stylesheet">
 
   <!-- =======================================================
-    Theme Name: EstateAgency
+    Theme Name: Coco language
     Theme URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
     Author: BootstrapMade.com
     License: https://bootstrapmade.com/license/
@@ -227,7 +227,7 @@
                       <span class="color-b">Commonwealth </span> 奎松市
                       <br>英联邦城</h1>
                     <p class="intro-subtitle intro-price">
-                      <a href="#"><span class="price-a">新房 | 看房</span></a>
+                      <a href="#"><span class="price-a">ENROLL NOW</span></a>
                     </p>
                   </div>
                 </div>
@@ -250,7 +250,7 @@
                       <span class="color-b">204 </span> Alira
                       <br> Roan Road One</h1>
                     <p class="intro-subtitle intro-price">
-                      <a href="#"><span class="price-a">新房 | 即将开盘</span></a>
+                      <a href="#"><span class="price-a">ENROLL NOW </span></a>
                     </p>
                   </div>
                 </div>
@@ -280,7 +280,7 @@
           <div class="card-box-c foo">
             <div class="card-header-c d-flex">
               <div class="card-box-ico">
-                <span class="fa fa-gamepad"></span>
+                <span class="fa fa-trophy"></span>
               </div>
               <div class="card-title-c align-self-center">
                 <h2 class="title-c">居家生活</h2>
@@ -302,7 +302,7 @@
           <div class="card-box-c foo">
             <div class="card-header-c d-flex">
               <div class="card-box-ico">
-                <span class="fa fa-usd"></span>
+                <span class="fa fa-comments"></span>
               </div>
               <div class="card-title-c align-self-center">
                 <h2 class="title-c">贷款买房</h2>
@@ -324,7 +324,7 @@
           <div class="card-box-c foo">
             <div class="card-header-c d-flex">
               <div class="card-box-ico">
-                <span class="fa fa-home"></span>
+                <span class="fa fa-graduation-cap"></span>
               </div>
               <div class="card-title-c align-self-center">
                 <h2 class="title-c">投资出租</h2>
@@ -1089,7 +1089,7 @@
               All the links in the footer should remain intact.
               You can delete the links only if you purchased the pro version.
               Licensing information: https://bootstrapmade.com/license/
-              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=EstateAgency
+              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Coco language
             -->
              
           </div>
