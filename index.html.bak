@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Coco language</title>
+  <title>Coco Languages - Online School</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="Coco language can help you with your business and individual learning">
-  <meta content="" name="description">
+  <meta content="" name="Coco language can help you with your business and individual learning">
 
   <!-- Favicons -->
   <link href="img/favicon.png" rel="icon">
@@ -56,10 +56,9 @@
             <div class="form-group">
               <label for="Type">Type</label>
               <select class="form-control form-control-lg form-control-a" id="Type">
-                <option>所有类型</option>
-                <option>出租</option>
-                <option>出售</option>
-                <option>招待会</option>
+                <option>Mode</option>
+                <option>Group</option>
+                <option>Private</option>
               </select>
             </div>
           </div>
@@ -68,48 +67,23 @@
               <label for="city">Languages</label>
               <select class="form-control form-control-lg form-control-a" id="city">
                 <option>All languages</option>
-                <option>Mandarin</option>
                 <option>English</option>
+				<option>Mandarin</option>
                 <option>Spanish</option>
-                <option>German</option>
-				<option>Spanish</option>
-                <option>German</option>
-				<option>Spanish</option>
-                <option>German</option>
+                <option>Korean</option>
+				<option>Japanese</option>
+				<option>French</option>
               </select>
             </div>
           </div>
+          
           <div class="col-md-6 mb-2">
             <div class="form-group">
-              <label for="bedrooms">房间数</label>
-              <select class="form-control form-control-lg form-control-a" id="bedrooms">
-                <option>所有</option>
-                <option>01</option>
-                <option>02</option>
-                <option>03</option>
-              </select>
-            </div>
-          </div>
-          <div class="col-md-6 mb-2">
-            <div class="form-group">
-              <label for="garages">车库</label>
-              <select class="form-control form-control-lg form-control-a" id="garages">
-                <option>Any</option>
-                <option>01</option>
-                <option>02</option>
-                <option>03</option>
-                <option>04</option>
-              </select>
-            </div>
-          </div>
-          <div class="col-md-6 mb-2">
-            <div class="form-group">
-              <label for="bathrooms">浴室</label>
+              <label for="bathrooms">Native Speakers</label>
               <select class="form-control form-control-lg form-control-a" id="bathrooms">
                 <option>Any</option>
-                <option>01</option>
-                <option>02</option>
-                <option>03</option>
+                <option>Yes</option>
+                <option>No</option>
               </select>
             </div>
           </div>
@@ -154,18 +128,21 @@
             <a class="nav-link active" href="index.html">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about.html">About Us</a>
+            <a class="nav-link" href="about.html">Private</a>
+          </li>
+		  <li class="nav-item">
+            <a class="nav-link" href="property-single.html">Group Courses</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="property-grid.html">Language</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="blog-grid.html">博客</a>
+            <a class="nav-link" href="blog-grid.html">All Course</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">
-              Pages
+              Other
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="property-single.html">Class</a>
@@ -201,7 +178,7 @@
                     <p class="intro-title-top">Teacher From China
                       <br> Minimum 2 hours</p>
                     <h1 class="intro-title mb-4">
-                      <span class="color-b">MANDARIN </span> ONE ON ONE CLASS
+                      <span class="color-b">MANDARIN </span>  CLASS
                       <br>12 USD for 2 HOURs</h1>
                     <p class="intro-subtitle intro-price">
                       <a href="#"><span class="price-a">ENROLL NOW</span></a>
@@ -221,11 +198,11 @@
               <div class="row">
                 <div class="col-lg-8">
                   <div class="intro-body">
-                    <p class="intro-title-top">Quezon,Manila
-                      <br> 78345</p>
+                    <p class="intro-title-top">Learn Englih
+                      <br> for your future</p>
                     <h1 class="intro-title mb-4">
-                      <span class="color-b">Commonwealth </span> 奎松市
-                      <br>英联邦城</h1>
+                      <span class="color-b">Budget </span> English Tutor
+                      <br>One to One or Group Class</h1>
                     <p class="intro-subtitle intro-price">
                       <a href="#"><span class="price-a">ENROLL NOW</span></a>
                     </p>
@@ -244,11 +221,11 @@
               <div class="row">
                 <div class="col-lg-8">
                   <div class="intro-body">
-                    <p class="intro-title-top">Doral, Florida
-                      <br> 78345</p>
+                    <p class="intro-title-top">Philippines
+                      <br> Quality Guarrented</p>
                     <h1 class="intro-title mb-4">
-                      <span class="color-b">204 </span> Alira
-                      <br> Roan Road One</h1>
+                      <span class="color-b"> Top </span> Teacher
+                      <br> One on One</h1>
                     <p class="intro-subtitle intro-price">
                       <a href="#"><span class="price-a">ENROLL NOW </span></a>
                     </p>
@@ -283,7 +260,7 @@
                 <span class="fa fa-trophy"></span>
               </div>
               <div class="card-title-c align-self-center">
-                <h2 class="title-c">居家生活</h2>
+                <h2 class="title-c">Level-UP</h2>
               </div>
             </div>
             <div class="card-body-c">
@@ -305,12 +282,12 @@
                 <span class="fa fa-comments"></span>
               </div>
               <div class="card-title-c align-self-center">
-                <h2 class="title-c">贷款买房</h2>
+                <h2 class="title-c">Practising</h2>
               </div>
             </div>
             <div class="card-body-c">
               <p class="content-c">
-                公司建议一次性付款.
+                Intensive Class can help you speak with cinfidence.
               </p>
             </div>
             <div class="card-footer-c">
@@ -327,7 +304,7 @@
                 <span class="fa fa-graduation-cap"></span>
               </div>
               <div class="card-title-c align-self-center">
-                <h2 class="title-c">投资出租</h2>
+                <h2 class="title-c">Reach Your Goal</h2>
               </div>
             </div>
             <div class="card-body-c">
@@ -354,10 +331,10 @@
         <div class="col-md-12">
           <div class="title-wrap d-flex justify-content-between">
             <div class="title-box">
-              <h2 class="title-a">Hot Teachers</h2>
+              <h2 class="title-a">Popular Enroll</h2>
             </div>
             <div class="title-link">
-              <a href="property-grid.html">All Property
+              <a href="property-grid.html">All Courses
                 <span class="ion-ios-arrow-forward"></span>
               </a>
             </div>
@@ -374,8 +351,8 @@
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">206 Mount
-                      <br /> Olive Road Two</a>
+                    <a href="property-single.html">Monthly
+                      <br /> Mandarin Class</a>
                   </h2>
                 </div>
                 <div class="card-body-a">
@@ -421,8 +398,8 @@
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">157 West
-                      <br /> Central Park</a>
+                    <a href="property-single.html">Monthly
+                      <br /> English Class</a>
                   </h2>
                 </div>
                 <div class="card-body-a">
@@ -468,8 +445,8 @@
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">245 Azabu
-                      <br /> Nishi Park let</a>
+                    <a href="property-single.html">Monthly
+                      <br /> Japanese Class</a>
                   </h2>
                 </div>
                 <div class="card-body-a">
@@ -765,10 +742,10 @@
         <div class="col-md-12">
           <div class="title-wrap d-flex justify-content-between">
             <div class="title-box">
-              <h2 class="title-a">Latest News</h2>
+              <h2 class="title-a">Latest Promo</h2>
             </div>
             <div class="title-link">
-              <a href="blog-grid.html">All News
+              <a href="blog-grid.html">All Classes
                 <span class="ion-ios-arrow-forward"></span>
               </a>
             </div>
@@ -784,16 +761,16 @@
             <div class="card-overlay">
               <div class="card-header-b">
                 <div class="card-category-b">
-                  <a href="#" class="category-b">House</a>
+                  <a href="#" class="category-b">Adults</a>
                 </div>
                 <div class="card-title-b">
                   <h2 class="title-2">
-                    <a href="blog-single.html">House is comming
+                    <a href="blog-single.html">Weekly Mandarin Class is comming
                       <br> new</a>
                   </h2>
                 </div>
                 <div class="card-date">
-                  <span class="date-b">18 Sep. 2017</span>
+                  <span class="date-b">18 Sep. 2021</span>
                 </div>
               </div>
             </div>
@@ -807,16 +784,16 @@
             <div class="card-overlay">
               <div class="card-header-b">
                 <div class="card-category-b">
-                  <a href="#" class="category-b">Travel</a>
+                  <a href="#" class="category-b">Kids</a>
                 </div>
                 <div class="card-title-b">
                   <h2 class="title-2">
-                    <a href="blog-single.html">Travel is comming
+                    <a href="blog-single.html">Weekly English Class is comming
                       <br> new</a>
                   </h2>
                 </div>
                 <div class="card-date">
-                  <span class="date-b">18 Sep. 2017</span>
+                  <span class="date-b">18 Sep. 2021</span>
                 </div>
               </div>
             </div>
@@ -830,16 +807,16 @@
             <div class="card-overlay">
               <div class="card-header-b">
                 <div class="card-category-b">
-                  <a href="#" class="category-b">Park</a>
+                  <a href="#" class="category-b">HSK</a>
                 </div>
                 <div class="card-title-b">
                   <h2 class="title-2">
-                    <a href="blog-single.html">Park is comming
+                    <a href="blog-single.html">Mandarin Class
                       <br> new</a>
                   </h2>
                 </div>
                 <div class="card-date">
-                  <span class="date-b">18 Sep. 2017</span>
+                  <span class="date-b">18 Sep. 2021</span>
                 </div>
               </div>
             </div>
@@ -880,7 +857,7 @@
         <div class="col-md-12">
           <div class="title-wrap d-flex justify-content-between">
             <div class="title-box">
-              <h2 class="title-a">Testimonials</h2>
+              <h2 class="title-a">Students Feedback</h2>
             </div>
           </div>
         </div>
@@ -900,12 +877,12 @@
                 </div>
                 <div class="testimonials-content">
                   <p class="testimonial-text">
-                    Coco language can help you with your business and individual learning
+                    Thank you for accommodating the class content by letting me speak more in English! Looking forward to the Speaking class on Friday.
                   </p>
                 </div>
                 <div class="testimonial-author-box">
                   <img src="img/mini-testimonial-1.jpg" alt="" class="testimonial-avatar">
-                  <h5 class="testimonial-author">Albert & Erika</h5>
+                  <h5 class="testimonial-author">Maria</h5>
                 </div>
               </div>
             </div>
@@ -925,12 +902,12 @@
                 </div>
                 <div class="testimonials-content">
                   <p class="testimonial-text">
-                    Coco language can help you with your business and individual learning
+                     我很喜欢中文，喜欢中国文化。   Mandarin Teacher Tracy is highly recommended
                   </p>
                 </div>
                 <div class="testimonial-author-box">
                   <img src="img/mini-testimonial-2.jpg" alt="" class="testimonial-avatar">
-                  <h5 class="testimonial-author">Pablo & Emma</h5>
+                  <h5 class="testimonial-author">Olivia</h5>
                 </div>
               </div>
             </div>
@@ -979,11 +956,9 @@
                   <li class="item-list-a">
                     <i class="fa fa-angle-right"></i> <a href="#">Legal</a>
                   </li>
+                  
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Agent Admin</a>
-                  </li>
-                  <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Careers</a>
+                    <i class="fa fa-angle-right"></i> <a href="#">Become a tutor</a>
                   </li>
                   <li class="item-list-a">
                     <i class="fa fa-angle-right"></i> <a href="#">Affiliate</a>
@@ -999,25 +974,27 @@
         <div class="col-sm-12 col-md-4 section-md-t3">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">International sites</h3>
+              <h3 class="w-title-a text-brand">Popular Courses</h3>
             </div>
             <div class="w-body-a">
               <ul class="list-unstyled">
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">新加坡</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">English tutors</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">China</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">Chinese tutors</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Hong Kong</a>
-                </li>
-              
-                <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Singapore</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">Spanish tutors</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Philippines</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">French tutors</a>
+                </li>
+                <li class="item-list-a">
+                  <i class="fa fa-angle-right"></i> <a href="#">Japanese tutors</a>
+                </li>
+                <li class="item-list-a">
+                  <i class="fa fa-angle-right"></i> <a href="#">Korean tutors</a>
                 </li>
               </ul>
             </div>
@@ -1036,16 +1013,16 @@
                 <a href="#">Home</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">About us</a>
+                <a href="#">Business Mandarin Class</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">teachers</a>
+                <a href="#">Translation service</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">Blog</a>
+                <a href="#">小孩学英文</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">Contact</a>
+                <a href="#">About CoCo</a>
               </li>
             </ul>
           </nav>
