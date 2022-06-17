@@ -59,7 +59,7 @@
                 <option>所有类型</option>
                 <option>出租</option>
                 <option>出售</option>
-                <option>招待会</option>
+                <option>免费招待会</option>
               </select>
             </div>
           </div>
@@ -227,7 +227,7 @@
                       <span class="color-b">Commonwealth </span> 奎松市
                       <br>英联邦城</h1>
                     <p class="intro-subtitle intro-price">
-                      <a href="#"><span class="price-a">新房 | 看房</span></a>
+                      <a href="#"><span class="price-a">新房 | 免费看房</span></a>
                     </p>
                   </div>
                 </div>
