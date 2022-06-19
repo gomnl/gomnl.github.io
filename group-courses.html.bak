@@ -322,7 +322,7 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" id="pills-plans-tab" data-toggle="pill" href="#pills-plans" role="tab" aria-controls="pills-plans"
-                aria-selected="false">Floor Plans</a>
+                aria-selected="false">Lesson Plans</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" id="pills-map-tab" data-toggle="pill" href="#pills-map" role="tab" aria-controls="pills-map"
@@ -358,8 +358,8 @@
               <div class="property-agent">
                 <h4 class="title-agent">Tracy</h4>
                 <p class="color-text-a">
-                  I'm Tracy and welcome to my Chinese class.
-Mandarin Chinese is no longer just the language of the future, it is also the language of the present. Speaking Chinese will make a difference in the international job market and for them to learn it is now easier and fun.
+                  I'm Tracy and welcome to my Chinese class.</p>
+                <p class="color-text-a">Mandarin Chinese is no longer just the language of the future, it is also the language of the present. Speaking Chinese will make a difference in the international job market and for them to learn it is now easier and fun.
 All my classes are personalized and I customize them to the needs of each student.
 With me you will learn to speak with a native accent while recognizing and writing characters.
                 </p>
