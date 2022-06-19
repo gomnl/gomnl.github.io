@@ -92,11 +92,11 @@
             <div class="form-group">
               <label for="price">RATES</label>
               <select class="form-control form-control-lg form-control-a" id="price">
-                <option>Unlimite</option>
+                <option>$50 above</option>
                 <option>$5</option>
-                <option>$10</option>
                 <option>$15</option>
-                <option>$20</option>
+                <option>$25</option>
+                <option>$40</option>
               </select>
             </div>
           </div>

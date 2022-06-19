@@ -91,11 +91,11 @@
             <div class="form-group">
               <label for="price">RATES</label>
               <select class="form-control form-control-lg form-control-a" id="price">
-                <option>Unlimite</option>
+                <option>$50 above</option>
                 <option>$5</option>
-                <option>$10</option>
                 <option>$15</option>
-                <option>$20</option>
+                <option>$25</option>
+                <option>$40</option>
               </select>
             </div>
           </div>
@@ -143,7 +143,7 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="group-courses.html">Teachers Single</a>
-              <a class="dropdown-item" href="blog-single.html">Blog Single</a>
+              <a class="dropdown-item" href="payment.html">Blog Single</a>
               <a class="dropdown-item active" href="all-tutors.html">Teachers Grid</a>
               <a class="dropdown-item" href="tutor.html">Teachers Single</a>
             </div>
