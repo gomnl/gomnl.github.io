@@ -108,7 +108,7 @@
   </div>
   <!--/ Form Search End /-->
 
-  <!--/ Nav Star /-->
+   <!--/ Nav Star /-->
   <nav class="navbar navbar-default navbar-trans navbar-expand-lg fixed-top">
     <div class="container">
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
@@ -117,7 +117,7 @@
         <span></span>
         <span></span>
       </button>
-      <a class="navbar-brand text-brand" href="index.html">CoCo<span class="color-b">Language</span></a>
+      <a class="navbar-brand text-brand" href="index.html">COCO<span class="color-b">LANGUAGE</span></a>
       <button type="button" class="btn btn-link nav-search navbar-toggle-box-collapse d-md-none" data-toggle="collapse"
         data-target="#navbarTogglerDemo01" aria-expanded="false">
         <span class="fa fa-search" aria-hidden="true"></span>
@@ -125,27 +125,29 @@
       <div class="navbar-collapse collapse justify-content-center" id="navbarDefault">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link active" href="index.html">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="private-class.html">About</a>
+            <a class="nav-link" href="private-class.html">Private</a>
+          </li>
+		  <li class="nav-item">
+            <a class="nav-link" href="group-courses.html">Group Courses</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="all-classes.html">Property</a>
+            <a class="nav-link" href="all-classes.html">All Courses</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="blog-grid.html">Blog</a>
-          </li>
+        
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">
-              Pages
+              其他链接
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item active" href="group-courses.html">Property Single</a>
-              <a class="dropdown-item" href="payment.html">Blog Single</a>
-              <a class="dropdown-item" href="all-tutors.html">Agents Grid</a>
-              <a class="dropdown-item" href="tutor.html">Agent Single</a>
+			   <a class="dropdown-item" href="blog-grid.html">博客</a>
+              <a class="dropdown-item" href="group-courses.html">Group Courses</a>
+              <a class="dropdown-item" href="payment.html">Payment</a>
+              <a class="dropdown-item" href="all-tutors.html">ALL Teachers</a>
+              <a class="dropdown-item" href="tutor.html">Online Tutorial</a>
             </div>
           </li>
           <li class="nav-item">

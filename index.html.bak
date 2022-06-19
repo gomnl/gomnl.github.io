@@ -136,15 +136,14 @@
           <li class="nav-item">
             <a class="nav-link" href="all-classes.html">All Courses</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="blog-grid.html">Blogg</a>
-          </li>
+        
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">
-              Other
+              其他链接
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+			   <a class="dropdown-item" href="blog-grid.html">博客</a>
               <a class="dropdown-item" href="group-courses.html">Group Courses</a>
               <a class="dropdown-item" href="payment.html">Payment</a>
               <a class="dropdown-item" href="all-tutors.html">ALL Teachers</a>

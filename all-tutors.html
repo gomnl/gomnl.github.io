@@ -580,27 +580,61 @@
   </section>
   <!--/ Agents Grid End /-->
 
-  <!--/ footer Star /-->
+   <!--/ footer Star /-->
+  
+  
+  
+  <!-- Messenger Chat plugin Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your Chat plugin code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "100306922651723");
+      chatbox.setAttribute("attribution", "biz_inbox");
+    </script>
+
+    <!-- Your SDK code -->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v14.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+<!-- Messenger Chat plugin Code -->
+  
   <section class="section-footer">
     <div class="container">
       <div class="row">
         <div class="col-sm-12 col-md-4">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">Coco language</h3>
+              <h3 class="w-title-a text-brand">Coco language </h3>
             </div>
             <div class="w-body-a">
               <p class="w-text-a color-text-a">
-                Enim minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequat duis
-                sed aute irure.
+                Coco language can help you with your business and individual learning
               </p>
             </div>
             <div class="w-footer-a">
               <ul class="list-unstyled">
                 <li class="color-a">
-                  <span class="color-text-a">Phone .</span> contact@example.com</li>
+                  <span class="color-text-a">Hotline</span>(+63)956 088 4681 </li>
                 <li class="color-a">
-                  <span class="color-text-a">Email .</span> +63 0956 088 4681</li>
+                  <span class="color-text-a">Email .</span> cocolanguagetraining@gmail.com </li>
               </ul>
             </div>
           </div>
@@ -608,22 +642,20 @@
         <div class="col-sm-12 col-md-4 section-md-t3">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">The Company</h3>
+              <h3 class="w-title-a text-brand">COCO LANGUAGE</h3>
             </div>
             <div class="w-body-a">
               <div class="w-body-a">
                 <ul class="list-unstyled">
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Site Map</a>
+                    <i class="fa fa-angle-right"></i> <a href="/payment.html">Payment</a>
                   </li>
                   <li class="item-list-a">
                     <i class="fa fa-angle-right"></i> <a href="#">Legal</a>
                   </li>
+                  
                   <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Agent Admin</a>
-                  </li>
-                  <li class="item-list-a">
-                    <i class="fa fa-angle-right"></i> <a href="#">Careers</a>
+                    <i class="fa fa-angle-right"></i> <a href="#">Become a tutor</a>
                   </li>
                   <li class="item-list-a">
                     <i class="fa fa-angle-right"></i> <a href="#">Affiliate</a>
@@ -639,27 +671,27 @@
         <div class="col-sm-12 col-md-4 section-md-t3">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">International sites</h3>
+              <h3 class="w-title-a text-brand">Popular Courses</h3>
             </div>
             <div class="w-body-a">
               <ul class="list-unstyled">
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Venezuela</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">English tutors</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">China</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">Chinese tutors</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Hong Kong</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">Spanish tutors</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Argentina</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">French tutors</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Singapore</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">Japanese tutors</a>
                 </li>
                 <li class="item-list-a">
-                  <i class="fa fa-angle-right"></i> <a href="#">Philippines</a>
+                  <i class="fa fa-angle-right"></i> <a href="#">Korean tutors</a>
                 </li>
               </ul>
             </div>
@@ -678,23 +710,23 @@
                 <a href="#">Home</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">About</a>
+                <a href="#">Business Mandarin Class</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">Languages</a>
+                <a href="#">Translation service</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">Blog</a>
+                <a href="#">小孩学英文</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">Contact</a>
+                <a href="http://www.coco101.ml/contact.html">About CoCo</a>
               </li>
             </ul>
           </nav>
           <div class="socials-a">
             <ul class="list-inline">
               <li class="list-inline-item">
-                <a href="#">
+                <a href="https://www.facebook.com/Coco-Language-Training-100306922651723">
                   <i class="fa fa-facebook" aria-hidden="true"></i>
                 </a>
               </li>
@@ -714,8 +746,8 @@
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="#">
-                  <i class="fa fa-dribbble" aria-hidden="true"></i>
+                <a href="https://www.tiktok.com/@cocolanguage">
+                  <i class="fa fa-tiktok" aria-hidden="true"></i>
                 </a>
               </li>
             </ul>
@@ -723,7 +755,7 @@
           <div class="copyright-footer">
             <p class="copyright color-text-a">
               &copy; Copyright
-              <span class="color-a">Coco language</span> All Rights Reserved.
+              <span class="color-a">COCO LANGUAGE SOLUTIONS.INC </span> Copyright.
             </p>
           </div>
           <div class="credits">
@@ -733,7 +765,7 @@
               Licensing information: https://bootstrapmade.com/license/
               Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Coco language
             -->
-            Designed by <a href="https://cocolanguagetraining.com/">Coco language</a>
+             
           </div>
         </div>
       </div>
