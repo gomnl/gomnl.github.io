@@ -331,8 +331,7 @@
           </ul>
           <div class="tab-content" id="pills-tabContent">
             <div class="tab-pane fade show active" id="pills-video" role="tabpanel" aria-labelledby="pills-video-tab">
-              <iframe src="https://www.facebook.com/MandarinTao/videos/3684645451760044" width="100%" height="460" frameborder="0"
-                webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+              <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FMandarinTao%2Fvideos%2F3684645451760044%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
             </div>
             <div class="tab-pane fade" id="pills-plans" role="tabpanel" aria-labelledby="pills-plans-tab">
               <img src="img/plan2.jpg" alt="" class="img-fluid">
@@ -353,7 +352,7 @@
           </div>
           <div class="row">
             <div class="col-md-6 col-lg-4">
-              <img src="img/agent-4.jpg" alt="" class="img-fluid">
+              <img src="img/agent-1.jpg" alt="" class="img-fluid">
             </div>
             <div class="col-md-6 col-lg-4">
               <div class="property-agent">
