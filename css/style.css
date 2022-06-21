@@ -1401,7 +1401,7 @@ a:hover {
   top: 50px;
   text-align: left;
   font-size: 1.8rem;
-  width: 300px;
+  width: 250px;
   font-weight: 700;
   text-align: right;
 }
@@ -1412,7 +1412,7 @@ a:hover {
 }
 
 .sinse-box {
-  background-color: #ca2ea7;
+  background-color: #ffc107;
   padding: 1rem 2rem;
   position: absolute;
   left: 15px;
